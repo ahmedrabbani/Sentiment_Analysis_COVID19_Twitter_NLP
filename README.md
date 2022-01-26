@@ -1,5 +1,8 @@
 # Sentiment_Analysis_COVID19_Twitter
 
+## Note:
+This repository is for personal back-up purpose. Download, copy or use of any code will be considered a violation of Georgia Tech's Honor Code.
+
 ## Summary: 
 
 ![image](https://user-images.githubusercontent.com/70823162/151102879-c753ab28-322c-4f66-b0d0-d322da8fc40b.png)
